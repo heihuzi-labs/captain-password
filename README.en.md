@@ -92,4 +92,4 @@ It's built with Tauri 2 (Rust backend) + React 18 + TypeScript + Vite. Pushing a
 
 ---
 
-<sub>Part of the Captain series from [heihuzi-labs](https://github.com/heihuzi-labs): [Captain Agents](https://github.com/heihuzi-labs/captain-agents) · [Captain Kube](https://github.com/heihuzi-labs/captain-kube) · [Captain Ops](https://github.com/heihuzi-labs/captain-ops) · [Captain Todo](https://github.com/heihuzi-labs/captain-todo) · **Captain Password**</sub>
+<sub>Part of the Captain series from [heihuzi-labs](https://github.com/heihuzi-labs): [Captain Agents](https://github.com/heihuzi-labs/captain-agents) · [Captain Kube](https://github.com/heihuzi-labs/captain-kube) · [Captain Ops](https://github.com/heihuzi-labs/captain-ops) · **Captain Password** · [Captain Todo](https://github.com/heihuzi-labs/captain-todo)</sub>
