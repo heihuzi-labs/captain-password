@@ -4,7 +4,7 @@ version = "0.1.5"
 description = "Local password vault desktop app"
 authors = ["heihuzi-labs"]
 license = ""
-repository = "https://github.com/heihuzicity-tech/CaptainPassword"
+repository = "https://github.com/heihuzi-labs/captain-password"
 edition = "2021"
 
 [build-dependencies]

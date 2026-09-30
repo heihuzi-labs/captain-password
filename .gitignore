@@ -6,3 +6,6 @@ src-tauri/gen
 .DS_Store
 .env
 .env.*
+
+# Local reference material (third-party, never commit)
+reference/

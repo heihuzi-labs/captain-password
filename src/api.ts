@@ -42,8 +42,8 @@ const browserVaultProfileStorageKey = 'captain.browserVaultProfile';
 
 const fallbackVaultProfile: VaultProfile = { name: '本地保险库', avatar: '本' };
 const appVersion = packageJson.version;
-const githubLatestReleaseApiUrl = 'https://api.github.com/repos/heihuzicity-tech/CaptainPassword/releases/latest';
-const githubLatestReleasePageUrl = 'https://github.com/heihuzicity-tech/CaptainPassword/releases/latest';
+const githubLatestReleaseApiUrl = 'https://api.github.com/repos/heihuzi-labs/captain-password/releases/latest';
+const githubLatestReleasePageUrl = 'https://github.com/heihuzi-labs/captain-password/releases/latest';
 
 type GitHubRelease = {
   tag_name?: string;
